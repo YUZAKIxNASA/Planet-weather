@@ -1,0 +1,7 @@
+{
+  "note": "This file holds first-run defaults only. Once the app has been launched, live settings (theme, last planet, API keys, favorites, history) live in database/database.db and this file is not read again.",
+  "theme": "green",
+  "last_planet": "Mercury",
+  "fullscreen_on_launch": false,
+  "sound_enabled": true
+}

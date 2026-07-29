@@ -1,0 +1,10 @@
+{
+  "app_name": "Planet Dashboard",
+  "version": "1.0.0",
+  "default_planet": "Mercury",
+  "default_theme": "green",
+  "fps_target": 60,
+  "starfield_star_count": 140,
+  "cache_max_age_seconds": 3600,
+  "default_weather_city": "London"
+}
