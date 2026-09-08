@@ -1,0 +1,26 @@
+{
+  "name": "planet-weather-terminal",
+  "version": "1.0.0",
+  "description": "Futuristic retro CRT Solar System & Planet Weather Terminal powered by NASA/JPL Horizons and live Earth weather telemetry",
+  "main": "server/server.js",
+  "scripts": {
+    "setup": "npm install && npm --prefix server install && npm --prefix client install",
+    "server": "npm --prefix server start",
+    "client": "npm --prefix client dev",
+    "dev": "concurrently \"npm run server\" \"npm run client\"",
+    "start": "npm --prefix server start"
+  },
+  "keywords": [
+    "nasa",
+    "jpl-horizons",
+    "planet-weather",
+    "threejs",
+    "crt-terminal",
+    "solar-system"
+  ],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "concurrently": "^8.2.2"
+  }
+}
