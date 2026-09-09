@@ -1,4 +1,4 @@
-# 🪐 PROJECT.md — REAL PLANET WEATHER TERMINAL
+# 🪐 REAL PLANET WEATHER TERMINAL
 
 Complete Technical Documentation & System Specifications
 
