@@ -26,6 +26,7 @@ Unlike static UI mockups, dashboard templates, or fictional space games:
 
 ### 🪐 Planetary & Solar System Objects (11 Implemented)
 1. **SUN**: Yellow Dwarf Star ($G2V$), solar corona particle glow, surface photosphere flares. (Type: `STAR`)
+ <img src="assets/Screenshot_20260909-122728.Chrome~2.jpg" alt="Profile Banner" width="100%">
 2. **MERCURY**: Cratered regolith texture, slow rotation, exosphere composition. (Type: `PLANET`)
 3. **VENUS**: Dense sulfuric acid cloud atmosphere, runaway greenhouse temperature ($464\text{ }^\circ\text{C}$), $92\text{ atm}$ surface pressure, retrograde rotation. (Type: `PLANET`)
 4. **EARTH**: Blue oceans, continents, polar caps, moving atmospheric cloud mesh, atmosphere glow, Moon orbit ring, and live Earth weather telemetry. (Type: `PLANET`)
