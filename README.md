@@ -34,6 +34,7 @@ Unlike static UI mockups, dashboard templates, or fictional space games:
 4. **EARTH**: Blue oceans, continents, polar caps, moving atmospheric cloud mesh, atmosphere glow, Moon orbit ring, and live Earth weather telemetry. (Type: `PLANET`)
 <img src="assets/Screenshot_20260909-122754.Chrome~2.jpg" alt="Profile Banner" width="100%">
 6. **MARS**: Rusty iron-oxide surface, crater textures, Gale Crater rover atmospheric telemetry. (Type: `PLANET`)
+<img src="assets/Screenshot_20260909-122800.Chrome~2.jpg" alt="Profile Banner" width="100%">
 7. **JUPITER**: Gas giant, animated atmospheric bands, Great Red Spot feature. (Type: `PLANET`)
 8. **SATURN**: Gas giant, multi-ring system (A/B/C rings & Cassini Division) with double-sided lighting. (Type: `PLANET`)
 9. **URANUS**: Cyan ice giant, sideways tilt ($97.77^\circ$), faint ring system. (Type: `PLANET`)
