@@ -31,7 +31,8 @@ Unlike static UI mockups, dashboard templates, or fictional space games:
 <img src="assets/Screenshot_20260909-122744.Chrome~2.jpg" alt="Profile Banner" width="100%">
 3. **VENUS**: Dense sulfuric acid cloud atmosphere, runaway greenhouse temperature ($464\text{ }^\circ\text{C}$), $92\text{ atm}$ surface pressure, retrograde rotation. (Type: `PLANET`)
 <img src="assets/Screenshot_20260909-122750.Chrome~2.jpg" alt="Profile Banner" width="100%">
-5. **EARTH**: Blue oceans, continents, polar caps, moving atmospheric cloud mesh, atmosphere glow, Moon orbit ring, and live Earth weather telemetry. (Type: `PLANET`)
+4. **EARTH**: Blue oceans, continents, polar caps, moving atmospheric cloud mesh, atmosphere glow, Moon orbit ring, and live Earth weather telemetry. (Type: `PLANET`)
+<img src="assets/Screenshot_20260909-122754.Chrome~2.jpg" alt="Profile Banner" width="100%">
 6. **MARS**: Rusty iron-oxide surface, crater textures, Gale Crater rover atmospheric telemetry. (Type: `PLANET`)
 7. **JUPITER**: Gas giant, animated atmospheric bands, Great Red Spot feature. (Type: `PLANET`)
 8. **SATURN**: Gas giant, multi-ring system (A/B/C rings & Cassini Division) with double-sided lighting. (Type: `PLANET`)
