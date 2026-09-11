@@ -33,14 +33,15 @@ Unlike static UI mockups, dashboard templates, or fictional space games:
 <img src="assets/Screenshot_20260909-122750.Chrome~2.jpg" alt="Profile Banner" width="100%">
 4. **EARTH**: Blue oceans, continents, polar caps, moving atmospheric cloud mesh, atmosphere glow, Moon orbit ring, and live Earth weather telemetry. (Type: `PLANET`)
 <img src="assets/Screenshot_20260909-122754.Chrome~2.jpg" alt="Profile Banner" width="100%">
-6. **MARS**: Rusty iron-oxide surface, crater textures, Gale Crater rover atmospheric telemetry. (Type: `PLANET`)
+5. **MARS**: Rusty iron-oxide surface, crater textures, Gale Crater rover atmospheric telemetry. (Type: `PLANET`)
 <img src="assets/Screenshot_20260909-122800.Chrome~2.jpg" alt="Profile Banner" width="100%">
-7. **JUPITER**: Gas giant, animated atmospheric bands, Great Red Spot feature. (Type: `PLANET`)
-8. **SATURN**: Gas giant, multi-ring system (A/B/C rings & Cassini Division) with double-sided lighting. (Type: `PLANET`)
-9. **URANUS**: Cyan ice giant, sideways tilt ($97.77^\circ$), faint ring system. (Type: `PLANET`)
-10. **NEPTUNE**: Deep azure ice giant, supersonic wind jet streams ($2100\text{ km/h}$). (Type: `PLANET`)
-11. **MOON**: Lunar regolith, craters, tidally locked sync, Earth orbit visualization. (Type: `NATURAL SATELLITE`)
-12. **PLUTO**: Kuiper belt icy/rocky surface, Tombaugh Regio bright heart feature. (Type: `DWARF PLANET`)
+6. **JUPITER**: Gas giant, animated atmospheric bands, Great Red Spot feature. (Type: `PLANET`)
+<img src="assets/Screenshot_20260909-122804.Chrome~2.jpg" alt="Profile Banner" width="100%">
+7. **SATURN**: Gas giant, multi-ring system (A/B/C rings & Cassini Division) with double-sided lighting. (Type: `PLANET`)
+8. **URANUS**: Cyan ice giant, sideways tilt ($97.77^\circ$), faint ring system. (Type: `PLANET`)
+9. **NEPTUNE**: Deep azure ice giant, supersonic wind jet streams ($2100\text{ km/h}$). (Type: `PLANET`)
+10. **MOON**: Lunar regolith, craters, tidally locked sync, Earth orbit visualization. (Type: `NATURAL SATELLITE`)
+11. **PLUTO**: Kuiper belt icy/rocky surface, Tombaugh Regio bright heart feature. (Type: `DWARF PLANET`)
 
 ### 🛰️ Telemetry & Astronomical Features
 - **NASA/JPL Horizons Ephemerides**: Real $X, Y, Z$ position coordinates, $VX, VY, VZ$ velocity vectors, distance from Sun (in $\text{AU}$ and $\text{km}$), and light-time delay in seconds.
