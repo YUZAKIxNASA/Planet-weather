@@ -38,6 +38,7 @@ Unlike static UI mockups, dashboard templates, or fictional space games:
 6. **JUPITER**: Gas giant, animated atmospheric bands, Great Red Spot feature. (Type: `PLANET`)
 <img src="assets/Screenshot_20260909-122804.Chrome~2.jpg" alt="Profile Banner" width="100%">
 7. **SATURN**: Gas giant, multi-ring system (A/B/C rings & Cassini Division) with double-sided lighting. (Type: `PLANET`)
+<img src="assets/Screenshot_20260909-122808.Chrome~2.jpg" alt="Profile Banner" width="100%">
 8. **URANUS**: Cyan ice giant, sideways tilt ($97.77^\circ$), faint ring system. (Type: `PLANET`)
 9. **NEPTUNE**: Deep azure ice giant, supersonic wind jet streams ($2100\text{ km/h}$). (Type: `PLANET`)
 10. **MOON**: Lunar regolith, craters, tidally locked sync, Earth orbit visualization. (Type: `NATURAL SATELLITE`)
