@@ -27,26 +27,37 @@ Unlike static UI mockups, dashboard templates, or fictional space games:
 ### 🪐 Planetary & Solar System Objects (11 Implemented)
 1. **SUN**: Yellow Dwarf Star ($G2V$), solar corona particle glow, surface photosphere flares. (Type: `STAR`)
  <img src="assets/Screenshot_20260909-122728.Chrome~2.jpg" alt="Profile Banner" width="100%">
+ 
 2. **MERCURY**: Cratered regolith texture, slow rotation, exosphere composition. (Type: `PLANET`)
 <img src="assets/Screenshot_20260909-122744.Chrome~2.jpg" alt="Profile Banner" width="100%">
+
 3. **VENUS**: Dense sulfuric acid cloud atmosphere, runaway greenhouse temperature ($464\text{ }^\circ\text{C}$), $92\text{ atm}$ surface pressure, retrograde rotation. (Type: `PLANET`)
 <img src="assets/Screenshot_20260909-122750.Chrome~2.jpg" alt="Profile Banner" width="100%">
+
 4. **EARTH**: Blue oceans, continents, polar caps, moving atmospheric cloud mesh, atmosphere glow, Moon orbit ring, and live Earth weather telemetry. (Type: `PLANET`)
 <img src="assets/Screenshot_20260909-122754.Chrome~2.jpg" alt="Profile Banner" width="100%">
+
 5. **MARS**: Rusty iron-oxide surface, crater textures, Gale Crater rover atmospheric telemetry. (Type: `PLANET`)
 <img src="assets/Screenshot_20260909-122800.Chrome~2.jpg" alt="Profile Banner" width="100%">
+
 6. **JUPITER**: Gas giant, animated atmospheric bands, Great Red Spot feature. (Type: `PLANET`)
 <img src="assets/Screenshot_20260909-122804.Chrome~2.jpg" alt="Profile Banner" width="100%">
+
 7. **SATURN**: Gas giant, multi-ring system (A/B/C rings & Cassini Division) with double-sided lighting. (Type: `PLANET`)
 <img src="assets/Screenshot_20260909-122808.Chrome~2.jpg" alt="Profile Banner" width="100%">
+
 8. **URANUS**: Cyan ice giant, sideways tilt ($97.77^\circ$), faint ring system. (Type: `PLANET`)
 <img src="assets/Screenshot_20260909-122812.Chrome~2.jpg" alt="Profile Banner" width="100%">
+
 9. **NEPTUNE**: Deep azure ice giant, supersonic wind jet streams ($2100\text{ km/h}$). (Type: `PLANET`)
 <img src="assets/Screenshot_20260909-122815.Chrome~2.jpg" alt="Profile Banner" width="100%">
+
 10. **MOON**: Lunar regolith, craters, tidally locked sync, Earth orbit visualization. (Type: `NATURAL SATELLITE`)
 <img src="assets/Screenshot_20260909-122943.Chrome~2.jpg" alt="Profile Banner" width="100%">
+
 11. **PLUTO**: Kuiper belt icy/rocky surface, Tombaugh Regio bright heart feature. (Type: `DWARF PLANET`)
 <img src="assets/Screenshot_20260909-122823.Chrome~2.jpg" alt="Profile Banner" width="100%">
+
 ### 🛰️ Telemetry & Astronomical Features
 - **NASA/JPL Horizons Ephemerides**: Real $X, Y, Z$ position coordinates, $VX, VY, VZ$ velocity vectors, distance from Sun (in $\text{AU}$ and $\text{km}$), and light-time delay in seconds.
 - **Custom Ephemeris Date Picker**: Recalculate planetary state vectors for any custom date/year.
