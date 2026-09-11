@@ -44,8 +44,9 @@ Unlike static UI mockups, dashboard templates, or fictional space games:
 9. **NEPTUNE**: Deep azure ice giant, supersonic wind jet streams ($2100\text{ km/h}$). (Type: `PLANET`)
 <img src="assets/Screenshot_20260909-122815.Chrome~2.jpg" alt="Profile Banner" width="100%">
 10. **MOON**: Lunar regolith, craters, tidally locked sync, Earth orbit visualization. (Type: `NATURAL SATELLITE`)
+<img src="assets/Screenshot_20260909-122943.Chrome~2.jpg" alt="Profile Banner" width="100%">
 11. **PLUTO**: Kuiper belt icy/rocky surface, Tombaugh Regio bright heart feature. (Type: `DWARF PLANET`)
-
+<img src="assets/Screenshot_20260909-122823.Chrome~2.jpg" alt="Profile Banner" width="100%">
 ### 🛰️ Telemetry & Astronomical Features
 - **NASA/JPL Horizons Ephemerides**: Real $X, Y, Z$ position coordinates, $VX, VY, VZ$ velocity vectors, distance from Sun (in $\text{AU}$ and $\text{km}$), and light-time delay in seconds.
 - **Custom Ephemeris Date Picker**: Recalculate planetary state vectors for any custom date/year.
