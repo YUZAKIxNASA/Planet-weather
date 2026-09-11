@@ -40,6 +40,7 @@ Unlike static UI mockups, dashboard templates, or fictional space games:
 7. **SATURN**: Gas giant, multi-ring system (A/B/C rings & Cassini Division) with double-sided lighting. (Type: `PLANET`)
 <img src="assets/Screenshot_20260909-122808.Chrome~2.jpg" alt="Profile Banner" width="100%">
 8. **URANUS**: Cyan ice giant, sideways tilt ($97.77^\circ$), faint ring system. (Type: `PLANET`)
+<img src="assets/Screenshot_20260909-122812.Chrome~2.jpg" alt="Profile Banner" width="100%">
 9. **NEPTUNE**: Deep azure ice giant, supersonic wind jet streams ($2100\text{ km/h}$). (Type: `PLANET`)
 10. **MOON**: Lunar regolith, craters, tidally locked sync, Earth orbit visualization. (Type: `NATURAL SATELLITE`)
 11. **PLUTO**: Kuiper belt icy/rocky surface, Tombaugh Regio bright heart feature. (Type: `DWARF PLANET`)
